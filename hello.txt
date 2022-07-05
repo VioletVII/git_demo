@@ -11,4 +11,3 @@ hello git!
 hello git!
 hello git!
 hello git! 
-hello git! host-fix test
